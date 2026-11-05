@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-saved-lists-dart-desktop",
+  "capabilityKey": "planned:ecommerce:saved-lists",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_saved_lists_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/saved-lists.md",
+  "presentationPlan": "projects/ecommerce/features/saved-lists.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
